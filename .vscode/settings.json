@@ -1,0 +1,12 @@
+{
+    "maven.terminal.favorites": [
+        {
+            "command": "wildfly:deploy",
+            "debug": false
+        },
+        {
+            "command": "verify -Parq-remote",
+            "debug": false
+        }
+    ]
+}
